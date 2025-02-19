@@ -1,8 +1,8 @@
 # BigData
-Overview of data analysis 
+Overview of Data Analysis 
 
 # Task
-Presentation about data analysis
+Data Analysis Presentation Based on a YouTube Tutorial
 
 # Worktime
 12 Hours
